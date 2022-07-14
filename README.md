@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/백준아이디)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inth9198)](https://solved.ac/백준아이디)
 
 클래스액트 인턴(특허 기여)
 
