@@ -2,6 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inth9198)](https://solved.ac/inth9198)
 
+cs공부 노션
+https://www.notion.so/171722de241544698e075f5fe42d06ce
+
 클래스액트 인턴(특허 기여)
 
 임상 참여 조건의 정형화를 위한 데이터 파이프라인 처리방법
